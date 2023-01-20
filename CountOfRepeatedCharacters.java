@@ -39,5 +39,6 @@ public class CountOfRepeatedCharacters {
 	      }
 	      
 	      System.out.println("\nTotal Number of Repeated Characters = " +repChars);
+	      System.out.println("%%%%%%%%%%%%%%%%%%%%");
 	   }
 }
